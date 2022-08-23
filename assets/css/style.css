@@ -1,0 +1,28 @@
+@import url("../css/cabecalho/cabecalho.css");
+@import url("../css/cabecalho/cabecalho-texto.css");
+@import url("../css/cabecalho/cabecalho-titulo.css");
+@import url("../css/banner/banner.css");
+@import url("../css/banner/bannerTitulo.css");
+@import url("../css/banner/bannerTexto.css");
+@import url("../css/destaques/destaques.css");
+@import url("../css/destaques/destaquesTitulo.css");
+@import url("../css/destaques/destaquesTexto.css");
+@import url("../css/modelos/modelos.css");
+@import url("../css/modelos/modelos-Lista.css");
+@import url("../css/modelos/modelosLista-Item.css");
+@import url("../css/modelos/modelos-imagem.css");
+@import url("../css/rodape/rodape.css");
+@import url("../css/rodape/rodape-texto.css");
+
+:root {
+    --branco: #F9F9F9;
+    --branco-200: #EBE9EA;
+    --cinza: #474747;
+    --fonte: 'Montserrat', sans-serif;
+    --luz-escura: #181818;
+
+}
+
+body {
+    font-family: var(--fonte);
+}

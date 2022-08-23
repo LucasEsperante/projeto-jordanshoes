@@ -1,0 +1,20 @@
+.banner {
+    background-size: cover;
+    background: rgba(0, 0, 0, 0.60) url("../../img/jordan-bg.jpg") no-repeat center;
+    background-blend-mode: darken;
+    display: flex;
+    flex-direction: column;
+    height: 377px;
+    justify-content: center;
+    padding: 0 14px;
+    text-align: center;
+}
+
+@media screen and (min-width: 1440px) {
+    .banner {
+        background: rgba(0, 0, 0, 0.60) url("../../img/jordanBG.jpg") no-repeat center;
+        background-blend-mode: darken;
+        background-size: cover;
+        padding-left: 6.5em;
+    }
+}

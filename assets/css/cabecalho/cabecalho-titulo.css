@@ -1,0 +1,12 @@
+.cabecalho__titulo {
+    align-items: center;
+    background: var(--branco);
+    color: var(--luz-escura);
+    display: flex;
+    font-family: var(--fonte);
+    font-size: 24px;
+    font-weight: 600;
+    height: 60px;
+    justify-content: center;
+    width: 100%;
+}

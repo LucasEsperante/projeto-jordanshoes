@@ -1,0 +1,16 @@
+.banner__texto {
+    color: var(--branco);
+    font-family: var(--fonte);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 180%;
+    text-align: left;
+}
+
+@media screen and (min-width:1440px) {
+    .banner__texto{
+        font-size: 18px;
+        padding-top: 1em;
+        width: 470px;
+    }
+}

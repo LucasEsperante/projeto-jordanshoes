@@ -1,0 +1,7 @@
+.rodape__texto {
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 500;
+    padding: 1em;
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+.destaques__titulo {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+@media screen and (min-width: 1440px) {
+    .destaques__titulo {
+        font-size: 32px;
+    }
+}

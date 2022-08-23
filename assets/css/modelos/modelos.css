@@ -1,0 +1,10 @@
+.modelos {
+    width: 100%;
+}
+
+@media screen and (min-width: 1440px) {
+    .modelos {
+        width: 1440px;
+    }
+    
+}

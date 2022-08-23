@@ -1,0 +1,15 @@
+.modelos__lista {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 1440px) {
+    .modelos__lista {
+        display: grid;
+        grid-template-columns: repeat(4, 302px);
+        gap: 39px 13px;
+        margin-left: 100px;
+        margin-bottom: 100px;
+    }
+}
